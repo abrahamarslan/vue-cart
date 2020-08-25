@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "bootstrap-css-only": "^4.4.1",
     "core-js": "^3.6.5",
     "mdbvue": "file:../../../home/parallels/Desktop/Dev/vu-pro",
     "vue": "^2.6.11"
@@ -33,7 +35,10 @@
     "parserOptions": {
       "parser": "babel-eslint"
     },
-    "rules": {}
+    "rules": {
+      "no-unused-vars": "off",
+      "no-unused-components": "off"
+    }
   },
   "browserslist": [
     "> 1%",

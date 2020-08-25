@@ -1,0 +1,3 @@
+[2020-08-25 19:13:05.577] [sharedprocess] [info] main {"machineId":"65ec9cf43ae62cd43d6c785935021dfaad06fc54a1e64210bb1987a46c1da34b","windowId":2}
+[2020-08-25 19:13:05.627] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/v-cart/~/.vscode-root/User/snippets'
+[2020-08-25 19:13:45.600] [sharedprocess] [info] Starting to clean up unused language packs.

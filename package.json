@@ -12,6 +12,7 @@
     "bootstrap-css-only": "^4.4.1",
     "core-js": "^3.6.5",
     "mdbvue": "file:../../../home/parallels/Desktop/Dev/vu-pro",
+    "vee-validate": "^3.3.9",
     "vue": "^2.6.11"
   },
   "devDependencies": {
@@ -37,7 +38,8 @@
     },
     "rules": {
       "no-unused-vars": "off",
-      "no-unused-components": "off"
+      "vue/no-unused-vars": "off",
+      "vue/no-unused-components": "off"
     }
   },
   "browserslist": [

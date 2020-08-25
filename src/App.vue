@@ -1,31 +1,23 @@
 <template>
   <div id="app">
-    <div>
-        <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-        <mdb-btn color="primary">Primary</mdb-btn>
-
-        <!-- Default button -->
-        <mdb-btn color="default">Default</mdb-btn>
-
-        <!-- Secondary button -->
-        <mdb-btn color="secondary">Secondary</mdb-btn>
-
-        <!-- Indicates a successful or positive action -->
-        <mdb-btn color="success">Success</mdb-btn>
-
-        <!-- Contextual button for informational alert messages -->
-        <mdb-btn color="info">Info</mdb-btn>
-
-        <!-- Indicates caution should be taken with this action -->
-        <mdb-btn color="warning">Warning</mdb-btn>
-
-        <!-- Indicates a dangerous or potentially negative action -->
-        <mdb-btn color="danger">Danger</mdb-btn>
-    </div>
+   <Header></Header>  
+   <mdb-container class="mt-5">
+    <mdb-row class="justify-content-md-center align-middle">      
+      <mdb-col>
+        <AddProduct />
+      </mdb-col>
+      <mdb-col>
+        <ListProduct />
+      </mdb-col>
+    </mdb-row>
+   </mdb-container>
   </div>
 </template>
 
 <script>
+import Header from './components/Header';
+import AddProduct from './components/AddProduct';
+import ListProduct from './components/ListProduct';
 import { mdbContainer, mdbRow, mdbCol, mdbBtn } from "mdbvue";
 export default {
   name: 'App',
@@ -33,20 +25,14 @@ export default {
     mdbContainer,
     mdbRow,
     mdbCol,
-    mdbBtn
+    mdbBtn,
+    Header,
+    AddProduct,
+    ListProduct
   }
 }
 </script>
 
 <style>
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
-
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap'); 
 </style>

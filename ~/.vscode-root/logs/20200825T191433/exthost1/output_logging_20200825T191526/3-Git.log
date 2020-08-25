@@ -240,3 +240,144 @@ Open repository: /var/www/v-cart
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /var/www/v-cart/package.json
+> git symbolic-ref --short HEAD
+> git cat-file -s d26f116f95eb3f3bcea8abc565b1d34a08cfe841
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git show --textconv :package.json
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /var/www/v-cart/package.json
+> git cat-file -s d26f116f95eb3f3bcea8abc565b1d34a08cfe841
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git show --textconv :src/components/Header.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/Header.vue
+> git check-ignore -v -z --stdin
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git show --textconv :src/components/Header.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/Header.vue
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git show --textconv :src/components/Header.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/Header.vue
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git show --textconv :src/components/Header.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/Header.vue
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git show --textconv :src/components/Header.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/Header.vue
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git show --textconv :src/components/Header.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/Header.vue
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git show --textconv :src/components/Header.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/Header.vue
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git show --textconv :src/main.js
+> git ls-files --stage -- /var/www/v-cart/src/main.js
+> git cat-file -s 468030adb78153faf6ce7b591cf7f1600d1e23e0
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git show --textconv :package.json
+> git ls-files --stage -- /var/www/v-cart/package.json
+> git cat-file -s d26f116f95eb3f3bcea8abc565b1d34a08cfe841
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 6a90e931db0ea1f4ab113f85f66139b9f71c3305
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git show --textconv :package.json
+> git ls-files --stage -- /var/www/v-cart/package.json
+> git cat-file -s d26f116f95eb3f3bcea8abc565b1d34a08cfe841
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git show --textconv :src/main.js
+> git ls-files --stage -- /var/www/v-cart/src/main.js
+> git cat-file -s 468030adb78153faf6ce7b591cf7f1600d1e23e0
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git show --textconv :src/main.js
+> git ls-files --stage -- /var/www/v-cart/src/main.js
+> git cat-file -s 468030adb78153faf6ce7b591cf7f1600d1e23e0
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue

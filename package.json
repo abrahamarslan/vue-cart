@@ -12,7 +12,7 @@
     "bootstrap-css-only": "^4.4.1",
     "core-js": "^3.6.5",
     "mdbvue": "file:../../../home/parallels/Desktop/Dev/vu-pro",
-    "vee-validate": "^3.3.9",
+    "vee-validate": "^2.2.15",
     "vue": "^2.6.11"
   },
   "devDependencies": {

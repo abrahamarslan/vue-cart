@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "T-Shirt",
+      "price": "550",
+      "brand": "Uniqlo",
+      "inventoryStatus": "false",
+      "description": "Uniqlo T-shirt "
+    },
+    {
+      "name": "Leggings",
+      "price": "50",
+      "brand": "Alouses",
+      "inventoryStatus": "true",
+      "description": "Alouses leggings",
+      "id": 3
+    }
+  ]
+}

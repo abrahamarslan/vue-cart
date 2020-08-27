@@ -1,0 +1,979 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /var/www/v-cart
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git check-ignore -v -z --stdin
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git cat-file -s 82b1a9bcf9e333be4848cae5092bd0f647c75991
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git cat-file -s 82b1a9bcf9e333be4848cae5092bd0f647c75991
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git cat-file -s 82b1a9bcf9e333be4848cae5092bd0f647c75991
+> git show --textconv :db.json
+> git ls-files --stage -- /var/www/v-cart/db.json
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git cat-file -s 82b1a9bcf9e333be4848cae5092bd0f647c75991
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git cat-file -s 82b1a9bcf9e333be4848cae5092bd0f647c75991
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git cat-file -s 82b1a9bcf9e333be4848cae5092bd0f647c75991
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git show --textconv :db.json
+> git ls-files --stage -- /var/www/v-cart/db.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db.json
+> git ls-files --stage -- /var/www/v-cart/db.json
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git cat-file -s 82b1a9bcf9e333be4848cae5092bd0f647c75991
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db.json
+> git ls-files --stage -- /var/www/v-cart/db.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git cat-file -s 82b1a9bcf9e333be4848cae5092bd0f647c75991
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/updateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/updateProduct.vue
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git cat-file -s 82b1a9bcf9e333be4848cae5092bd0f647c75991
+> git show --textconv :src/components/updateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/updateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/components/updateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/updateProduct.vue
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db.json
+> git ls-files --stage -- /var/www/v-cart/db.json
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/components/updateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/updateProduct.vue
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/components/updateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/updateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/updateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/updateProduct.vue
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/updateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/updateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/updateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/updateProduct.vue
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/updateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/updateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git cat-file -s 82b1a9bcf9e333be4848cae5092bd0f647c75991
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/components/updateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/updateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/updateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/updateProduct.vue
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git cat-file -s 82b1a9bcf9e333be4848cae5092bd0f647c75991
+> git show --textconv :src/components/updateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/updateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/UpdateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/UpdateProduct.vue
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/UpdateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/UpdateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/UpdateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/UpdateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db.json
+> git ls-files --stage -- /var/www/v-cart/db.json
+> git show --textconv :src/components/UpdateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/UpdateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db.json
+> git ls-files --stage -- /var/www/v-cart/db.json
+> git show --textconv :src/components/UpdateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/UpdateProduct.vue
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/components/UpdateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/UpdateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/components/UpdateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/UpdateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/UpdateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/UpdateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/UpdateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/UpdateProduct.vue
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/components/UpdateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/UpdateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git cat-file -s 82b1a9bcf9e333be4848cae5092bd0f647c75991
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/UpdateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/UpdateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/UpdateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/UpdateProduct.vue
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db.json
+> git ls-files --stage -- /var/www/v-cart/db.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/UpdateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/UpdateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git cat-file -s 82b1a9bcf9e333be4848cae5092bd0f647c75991
+> git show --textconv :src/App.vue
+> git ls-files --stage -- /var/www/v-cart/src/App.vue
+> git cat-file -s 21a03e094ca32f138d513bdb40be030acb507edc
+> git show --textconv :src/components/AddProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/AddProduct.vue
+> git cat-file -s 82b1a9bcf9e333be4848cae5092bd0f647c75991
+> git show --textconv :src/components/ListProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/ListProduct.vue
+> git cat-file -s 95b81ee2ddb8880eb3f54c9eedbc24b04f9080f0
+> git show --textconv :src/components/UpdateProduct.vue
+> git ls-files --stage -- /var/www/v-cart/src/components/UpdateProduct.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :db.json
+> git ls-files --stage -- /var/www/v-cart/db.json

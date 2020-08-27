@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.14.0",
+    "axios": "^0.20.0",
     "bootstrap-css-only": "^4.4.1",
     "core-js": "^3.6.5",
     "mdbvue": "file:../../../home/parallels/Desktop/Dev/vu-pro",
